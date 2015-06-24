@@ -1,5 +1,5 @@
 (function ($) {
 	$(function () {
-		$("input[data-touchspin]").TouchSpin();
+		$('input[data-role="touchspin"]').TouchSpin();
 	});
 })(jQuery);
