@@ -1,5 +1,3 @@
-(function ($) {
-	$(function () {
-		$('input[data-role="touchspin"]').TouchSpin();
-	});
-})(jQuery);
+jQuery(function ($) {
+    $('input[data-role="touchspin"]').TouchSpin();
+});
